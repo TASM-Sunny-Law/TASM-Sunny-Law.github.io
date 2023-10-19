@@ -8,3 +8,8 @@ body {
 h1 {
     color: blue;
 }
+
+img {
+      width: 300px; /* Set the width to 100 pixels */
+      height: 300px; /* Set the height to 100 pixels */
+}
